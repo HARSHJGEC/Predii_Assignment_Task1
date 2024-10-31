@@ -56,6 +56,8 @@ Using `chatbox_database creator.ipynb`, the project generates `database_chatbox.
 
 3. **Prompt Design for LLaMA 3.1 (8B Model)**:
    - Structured prompts are used to direct the model to focus on defect, consequence, and corrective summaries, merging these into a single summary that facilitates chatbot interactions. This prompt ensures responses are accurate, concise, and user-friendly.
+  
+   - **Note** : I have only processed 3450 rows because of resource constraint
 
 ---
 
